@@ -1,6 +1,6 @@
-### Hi there, I'm Matthew Blackburn 👋
+## Hi there, I'm Matthew Blackburn 👋
 
-## Here's some facts about me
+### Here's some facts about me
 
 - 🔭 I love working on Data Science and predictive models
 - 🌱 I’m currently learning everything 🤣
@@ -8,6 +8,24 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to run cross country and program in my free time
 
+### Things I've worked with
+Languages/Packages:
+- Python (NumPy, Pandas, Scikit-learn)
+- SQL
+- Java
+- Javascript
+
+Frameworks:
+- TensorFlow Keras
+- Flask
+- Plotly Dash
+- Matplotlib
+- Heroku
+
+Skills: 
+- Data Analysis 
+- Predictive Analytics
+- Machine Learning
 ### Connect with me:
 
 [<img align="left" alt="matthewblackbu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
