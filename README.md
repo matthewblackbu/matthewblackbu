@@ -16,7 +16,8 @@ Languages/Packages:
 - Javascript
 
 Frameworks:
-- TensorFlow Keras
+- Keras
+- TensorFlow
 - Flask
 - Plotly Dash
 - Matplotlib
