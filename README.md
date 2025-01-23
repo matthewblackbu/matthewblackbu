@@ -3,10 +3,10 @@
 ### Here's some facts about me
 
 - 🔭 I love working on Data Science and predictive models
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to run cross country and program in my free time
+- 🥅 2025 Goals: Compete in more Kaggle competitions
+- ⚡ Fun fact: I love to run cross country and Learn languages in my free time
 
 ### Things I've worked with
 Languages/Packages:
