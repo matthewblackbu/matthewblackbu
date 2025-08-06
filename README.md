@@ -30,8 +30,9 @@ Skills:
 - Machine Learning
 ### Connect with me:
 
-<img align="left" alt="LinkedIn" width="22px" src="https://i.imgur.com/uIplDZh.png" />
-<img align="left" alt="matthewblackbu | LinkedIn" width="22px" src="https://i.imgur.com/tGmm485.png" />
+[<img align="left" alt="LinkedIn" width="22px" src="https://i.imgur.com/uIplDZh.png" />][linkedin]
+[<img align="left" alt="Mail" width="22px" src="https://i.imgur.com/tGmm485.png" />][mail]
 
 [linkedin]: https://www.linkedin.com/in/matthew-blackburn-b89a2520a/
 [mail]: mailto:matthewblackbu@gmail.com
+
