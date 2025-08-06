@@ -3,7 +3,7 @@
 ### Here's some facts about me
 
 - 🔭 I love working on Data Science and predictive models
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently in college full time and working full time
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Compete in more Kaggle competitions
 - ⚡ Fun fact: I love to run cross country and Learn languages in my free time
@@ -11,17 +11,18 @@
 ### Things I've worked with
 Languages/Packages:
 - Python (NumPy, Pandas, Scikit-learn)
-- SQL
+- SQL (mySQL, AWS, FireBase, MongoDB)
 - Java
-- Javascript
+- Javascript/Typescript
+- C++
 
 Frameworks:
 - Keras
 - TensorFlow
-- Flask
 - Plotly Dash
 - Matplotlib
 - Heroku
+- Vue
 
 Skills: 
 - Data Analysis 
